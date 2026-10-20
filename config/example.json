@@ -1,0 +1,51 @@
+{
+  "Version": "LOCAL-COMPLETION-REQUIRED",
+  "IndependentlyConfirmed": false,
+  "ConfirmationSource": null,
+  "Reference": {
+    "PlanUid": null,
+    "CourseId": null,
+    "StructureSetUid": null,
+    "ImageUid": null,
+    "FrameUid": null
+  },
+  "Adaptive": {
+    "PlanUid": null,
+    "CourseId": null,
+    "StructureSetUid": null,
+    "ImageUid": null,
+    "FrameUid": null
+  },
+  "OriginalCourse": {
+    "DosePerFractionGy": null,
+    "Fractions": null,
+    "Targets": [
+      {
+        "StructureKey": null,
+        "TotalDoseGy": null
+      }
+    ]
+  },
+  "AdaptiveSegment": {
+    "DosePerFractionGy": null,
+    "Fractions": null,
+    "Targets": [
+      {
+        "StructureKey": null,
+        "TotalDoseGy": null
+      }
+    ]
+  },
+  "DoseToleranceGy": null,
+  "RequiredStructures": [],
+  "Algorithm": null,
+  "GridXmm": null,
+  "GridYmm": null,
+  "GridZmm": null,
+  "GridToleranceMm": null,
+  "BeamCount": null,
+  "Beams": [],
+  "MuTolerance": null,
+  "PositionToleranceMm": null,
+  "ExpectedChangeRationale": null
+}
